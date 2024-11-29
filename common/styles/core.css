@@ -47,7 +47,6 @@
   display: flex;
   width: initial;
   flex-direction: row;
-  
   justify-content: space-between;
 }
 p.flex-container-horizontal{
@@ -68,10 +67,10 @@ body {
 
 .main-frame {
   width: 800px;
-  height: 1130px;
   display: inline-flex;
   text-align: initial;
 }
+
 
 .title {
   font-size: 1.1em;
