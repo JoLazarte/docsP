@@ -33,15 +33,8 @@
 }
 
 .img-as-circle {
-  height: auto;
+  width: 24%;
   border-radius: 50%;
-}
-
-.img-center {
-  width: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .flex-container-vertical{
@@ -54,6 +47,11 @@
   display: flex;
   width: initial;
   flex-direction: row;
+  
+  justify-content: space-between;
+}
+p.flex-container-horizontal{
+  align-items: center;
 }
 
 .flex-vertical-center {
@@ -92,4 +90,10 @@ p, ul {
 }
 .to-left {
   float: left;
+}
+.icono-redes{
+  font-size: 18px;
+  border-radius: 50%;
+  margin-right: 8px;
+
 }

@@ -1,5 +1,5 @@
 body {
-  background-color: #e7e9eb;
+  background-color: rgb(82, 86, 89);
 }
 
 .bg-dark {
@@ -10,11 +10,19 @@ body {
 .bg-dark img.img-as-circle {
   border: 2px #f3f3f3 solid;
 }
-
+/*
 .bg-gray {
   background-color: #f3f3f3;
 }
 
 .bg-gray .tag {
   color: #1da1f2;
+}
+*/
+.bg-light .tag{
+  color: #1da1f2;
+ 
+}
+.bg-light{
+  background-color: #FAFAFA;
 }
