@@ -28,6 +28,7 @@
 .padding-md {
   padding: 0 15px;
 }
+
 .padding-md-right {
   padding-right: 15px;
 }
@@ -66,7 +67,7 @@ body {
 }
 
 .main-frame {
-  width: 800px;
+  width: 80%;
   display: inline-flex;
   text-align: initial;
 }
