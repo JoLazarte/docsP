@@ -34,7 +34,7 @@
 }
 
 .img-as-circle {
-  width: 24%;
+  width: 90px;
   border-radius: 50%;
 }
 
@@ -67,6 +67,9 @@ body {
 }
 
 .main-frame {
+  /*width: 800px;
+  height: 1130px;
+  */
   width: 80%;
   display: inline-flex;
   text-align: initial;

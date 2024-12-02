@@ -16,7 +16,8 @@ body {
   color: #1da1f2;
 }
 */
-.bg-light .tag{
+.bg-light .tag,
+.bg-gray .tag {
   color: #1da1f2;
  
 }
